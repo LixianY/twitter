@@ -1,6 +1,6 @@
 # Project 3 - *Twittery*
 
-**Twittwey** is a basic twitter app to read your tweets.
+**Twittery** is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
 
